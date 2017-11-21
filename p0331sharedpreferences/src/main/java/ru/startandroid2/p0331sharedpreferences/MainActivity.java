@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Button btnSave, btnLoad;
     SharedPreferences sPref;
     final String SAVED_TEXT = "saved_text";
+    final String FILE_NAME = "my_refs";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,12 +26,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnLoad = (Button) findViewById(R.id.btnLoad);
         btnLoad.setOnClickListener(this);
         loadText();
-    }
-
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        saveText();
     }
 
     @Override
@@ -48,7 +43,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     void saveText() {
-        sPref = getPreferences(MODE_PRIVATE);
+        //sPref = getPreferences(MODE_PRIVATE);
+        sPref = getSharedPreferences(FILE_NAME, MODE_PRIVATE);
         SharedPreferences.Editor ed = sPref.edit();
         ed.putString(SAVED_TEXT, etText.getText().toString());
         ed.commit();
@@ -56,9 +52,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     void loadText() {
-        sPref = getPreferences(MODE_PRIVATE);
+        //sPref = getPreferences(MODE_PRIVATE);
+        sPref = getSharedPreferences(FILE_NAME, MODE_PRIVATE);
         String savedText = sPref.getString(SAVED_TEXT, "");
         etText.setText(savedText);
         Toast.makeText(this, "Text loaded", Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        saveText();
     }
 }
