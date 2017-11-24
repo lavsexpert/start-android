@@ -1,1 +1,1 @@
-include ':app', ':p0331sharedpreferences'
+include ':app', ':p0331sharedpreferences', ':p0341simplesqlite'
