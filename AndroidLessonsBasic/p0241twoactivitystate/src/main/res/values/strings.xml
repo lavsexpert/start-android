@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoActivityState</string>
+    <string name="hello">Привет, атлет!</string>
+</resources>
