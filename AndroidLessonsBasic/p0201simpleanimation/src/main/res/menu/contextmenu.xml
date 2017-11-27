@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_alpha"
+        android:title="alpha">
+    </item>
+    <item
+        android:id="@+id/menu_scale"
+        android:title="scale">
+    </item>
+    <item
+        android:id="@+id/menu_translate"
+        android:title="translate">
+    </item>
+    <item
+        android:id="@+id/menu_rotate"
+        android:title="rotate">
+    </item>
+    <item
+        android:id="@+id/menu_combo"
+        android:title="combo">
+    </item>
+    <item
+        android:id="@+id/menu_supertcombo"
+        android:title="supertcombo">
+    </item>
+</menu>
