@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0331sharedpreferences/p0331sharedpreferences.iml" filepath="$PROJECT_DIR$/p0331sharedpreferences/p0331sharedpreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0341simplesqlite/p0341simplesqlite.iml" filepath="$PROJECT_DIR$/p0341simplesqlite/p0341simplesqlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0361sqlitequery/p0361sqlitequery.iml" filepath="$PROJECT_DIR$/p0361sqlitequery/p0361sqlitequery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0371sqliteinnerjoin/p0371sqliteinnerjoin.iml" filepath="$PROJECT_DIR$/p0371sqliteinnerjoin/p0371sqliteinnerjoin.iml" />
     </modules>
   </component>
 </project>
