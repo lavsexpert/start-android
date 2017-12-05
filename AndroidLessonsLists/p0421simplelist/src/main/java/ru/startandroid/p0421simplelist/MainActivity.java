@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         // создаем адаптер
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
-                android.R.layout.simple_list_item_1, names);
+                R.layout.my_list_item, names);
 
         // присваиваем адаптер списку
         lvMain.setAdapter(adapter);
