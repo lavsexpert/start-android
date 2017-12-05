@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0401layoutinflater/p0401layoutinflater.iml" filepath="$PROJECT_DIR$/p0401layoutinflater/p0401layoutinflater.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0411layoutinflaterlist/p0411layoutinflaterlist.iml" filepath="$PROJECT_DIR$/p0411layoutinflaterlist/p0411layoutinflaterlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0421simplelist/p0421simplelist.iml" filepath="$PROJECT_DIR$/p0421simplelist/p0421simplelist.iml" />
     </modules>
   </component>
 </project>
