@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0431simplelistchoice/p0431simplelistchoice.iml" filepath="$PROJECT_DIR$/p0431simplelistchoice/p0431simplelistchoice.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0441simplelistevents/p0441simplelistevents.iml" filepath="$PROJECT_DIR$/p0441simplelistevents/p0441simplelistevents.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0451expandablelist/p0451expandablelist.iml" filepath="$PROJECT_DIR$/p0451expandablelist/p0451expandablelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0461expandablelistevents/p0461expandablelistevents.iml" filepath="$PROJECT_DIR$/p0461expandablelistevents/p0461expandablelistevents.iml" />
     </modules>
   </component>
 </project>
