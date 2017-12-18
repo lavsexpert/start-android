@@ -1,1 +1,1 @@
-include ':app', ':p0401layoutinflater', ':p0411layoutinflaterlist', ':p0421simplelist'
+include ':app', ':p0401layoutinflater', ':p0411layoutinflaterlist', ':p0421simplelist', ':p0431simplelistchoice', ':p0441simplelistevents', ':p0451expandablelist', ':p0461expandablelistevents'
