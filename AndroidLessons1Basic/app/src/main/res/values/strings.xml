@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Android lessons</string>
+    <string-array name="modules">
+        <item>p0031firstproject</item>
+        <item>p0041basicviews</item>
+        <item>p0051layoutfiles</item>
+        <item>p0061layouts</item>
+        <item>p0072layoutprop</item>
+        <item>p0081viewbyid</item>
+        <item>p0091onclickbuttons</item>
+        <item>p0101listener</item>
+        <item>p0102activitylistener</item>
+        <item>p0103layoutlistener</item>
+        <item>p0111resvalues</item>
+        <item>p0121logandmess</item>
+        <item>p0131menusimple</item>
+        <item>p0141menuadv</item>
+        <item>p0151contextmenu</item>
+        <item>p0152contextmenuxml</item>
+        <item>p0161dynamiclayout</item>
+        <item>p0171dynamiclayout2</item>
+        <item>p0180constraintlayoutintro</item>
+        <item>p0181dynamiclayout3</item>
+        <item>p0191simplecalculator</item>
+        <item>p0201simpleanimation</item>
+        <item>p0211twoactivity</item>
+        <item>p0231oneactivitystate</item>
+        <item>p0241twoactivitystate</item>
+        <item>p0261intentfilter</item>
+        <item>p0271getintentaction</item>
+        <item>p0281intentextras</item>
+        <item>p0291simpleactivityresult</item>
+        <item>p0301activityresult</item>
+        <item>p0311simpleintents</item>
+        <item>p0321simplebrowser</item>
+    </string-array>
+</resources>
