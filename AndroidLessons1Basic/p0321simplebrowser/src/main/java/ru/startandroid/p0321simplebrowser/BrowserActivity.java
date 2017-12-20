@@ -1,4 +1,4 @@
-package ru.startandroid.simplebrowser;
+package ru.startandroid.p0321simplebrowser;
 
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package ru.startandroid.twoactivitystate;
+package ru.startandroid.p0241twoactivitystate;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package ru.startandroid.simpleintents;
+package ru.startandroid.p0311simpleintents;
 
 import android.content.Intent;
 import android.net.Uri;

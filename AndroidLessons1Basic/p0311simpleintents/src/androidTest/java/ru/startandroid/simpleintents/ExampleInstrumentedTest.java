@@ -1,4 +1,4 @@
-package ru.startandroid.simpleintents;
+package ru.startandroid.p0311simpleintents;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -6,68 +6,10 @@
     android:layout_height="match_parent"
     tools:context="ru.startandroid.androidlessons.MainActivity">
 
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:orientation="vertical">
+    <ListView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/lvMain">
+    </ListView>
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
-            <Button
-                android:id="@+id/p0031firstproject"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="3.Первый проект" />
-
-            <Button
-                android:id="@+id/p0041basicviesws"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="4.Базовые View" />
-
-            <Button
-                android:id="@+id/p0051layoutfiles"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="5.Файлы Layout" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
-
-            <Button
-                android:id="@+id/p0061layouts"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="6.Виды layout" />
-
-            <Button
-                android:id="@+id/p0072layoutprop"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="7.Параметры layout" />
-
-            <Button
-                android:id="@+id/p0081viewbyid"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="8.Элементы из кода" />
-        </LinearLayout>
-
-        <ListView
-            android:layout_height="wrap_content"
-            android:layout_width="match_parent"
-            android:id="@+id/lvMain">
-        </ListView>
-    </LinearLayout>
 </android.support.constraint.ConstraintLayout>

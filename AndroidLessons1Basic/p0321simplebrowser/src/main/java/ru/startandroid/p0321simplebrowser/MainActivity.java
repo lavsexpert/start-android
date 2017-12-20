@@ -1,4 +1,4 @@
-package ru.startandroid.simplebrowser;
+package ru.startandroid.p0321simplebrowser;
 
 import android.content.Intent;
 import android.net.Uri;
