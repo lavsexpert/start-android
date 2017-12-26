@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        applicationId "ru.startandroid2.p0331sharedpreferences"
+        applicationId "ru.startandroid.p0331sharedpreferences"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1

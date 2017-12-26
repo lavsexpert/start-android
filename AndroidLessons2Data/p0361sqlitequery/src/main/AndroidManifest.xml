@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ru.startandroid2.p0361sqlitequery">
+    package="ru.startandroid.p0361sqlitequery">
 
     <application
         android:allowBackup="true"
