@@ -1,4 +1,4 @@
-package ru.startandroid.androidlessonslists;
+package ru.startandroid.androidlessons3lists;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ru.startandroid.androidlessonslists", appContext.getPackageName());
+        assertEquals("ru.startandroid.androidlessons3lists", appContext.getPackageName());
     }
 }

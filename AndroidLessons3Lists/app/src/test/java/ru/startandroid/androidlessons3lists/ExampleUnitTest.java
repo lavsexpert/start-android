@@ -1,4 +1,4 @@
-package ru.startandroid.androidlessonslists;
+package ru.startandroid.androidlessons3lists;
 
 import org.junit.Test;
 

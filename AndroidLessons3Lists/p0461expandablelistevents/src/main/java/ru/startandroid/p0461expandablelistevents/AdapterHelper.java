@@ -1,16 +1,17 @@
 package ru.startandroid.p0461expandablelistevents;
 
-import android.content.Context;
-import android.widget.SimpleExpandableListAdapter;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+
+import android.content.Context;
+import android.widget.SimpleExpandableListAdapter;
 
 public class AdapterHelper {
 
     final String ATTR_GROUP_NAME= "groupName";
     final String ATTR_PHONE_NAME= "phoneName";
+
 
     // названия компаний (групп)
     String[] groups = new String[] {"HTC", "Samsung", "LG"};
@@ -40,6 +41,7 @@ public class AdapterHelper {
     }
 
     SimpleExpandableListAdapter adapter;
+
 
     SimpleExpandableListAdapter getAdapter() {
 
