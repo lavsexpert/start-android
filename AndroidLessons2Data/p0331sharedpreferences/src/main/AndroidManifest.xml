@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ru.startandroid2.p0331sharedpreferences">
+    package="ru.startandroid.p0331sharedpreferences">
 
     <application
         android:allowBackup="true"

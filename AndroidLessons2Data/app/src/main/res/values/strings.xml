@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">AndroidLessonsData</string>
+    <string name="app_name">androidlessons2data</string>
+    <string-array name="modules">
+        <item>p0331sharedpreferences</item>
+        <item>p0341simplesqlite</item>
+        <item>p0361sqlitequery</item>
+        <item>p0371sqliteinnerjoin</item>
+        <item>p0381sqlitetransaction</item>
+        <item>p0391sqliteonupgradedb</item>
+    </string-array>
 </resources>

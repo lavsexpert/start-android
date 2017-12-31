@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ru.startandroid.p0461expandablelistevents", appContext.getPackageName());
+        assertEquals("ru.startandroid.expandablelistevents", appContext.getPackageName());
     }
 }
