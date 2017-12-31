@@ -1,0 +1,4 @@
+#Tue Dec 26 22:48:02 MSK 2017
+base.0=C\:\\Projects\\AndroidLessons\\AndroidLessons2Data\\p0381sqlitetransaction\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
