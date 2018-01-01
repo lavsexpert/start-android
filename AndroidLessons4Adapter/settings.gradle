@@ -1,0 +1,1 @@
+include ':app', ':p0481simpleadapter', ':p0491simpleadaptercustom1', ':p0501simpleadaptercustom2'
