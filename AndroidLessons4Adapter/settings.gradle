@@ -1,1 +1,1 @@
-include ':app', ':p0481simpleadapter', ':p0491simpleadaptercustom1', ':p0501simpleadaptercustom2'
+include ':app', ':p0481simpleadapter', ':p0491simpleadaptercustom1', ':p0501simpleadaptercustom2', ':p0511simpleadapterdata', ':p0521simplecursoradapter', ':p0531simplecursortreeadapter', ':p0541customadapter', ':p0551headerfooter', ':p0561spinner', ':p0571gridview'

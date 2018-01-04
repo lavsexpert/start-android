@@ -7,6 +7,13 @@
       <module fileurl="file://$PROJECT_DIR$/p0481simpleadapter/p0481simpleadapter.iml" filepath="$PROJECT_DIR$/p0481simpleadapter/p0481simpleadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0491simpleadaptercustom1/p0491simpleadaptercustom1.iml" filepath="$PROJECT_DIR$/p0491simpleadaptercustom1/p0491simpleadaptercustom1.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0501simpleadaptercustom2/p0501simpleadaptercustom2.iml" filepath="$PROJECT_DIR$/p0501simpleadaptercustom2/p0501simpleadaptercustom2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0511simpleadapterdata/p0511simpleadapterdata.iml" filepath="$PROJECT_DIR$/p0511simpleadapterdata/p0511simpleadapterdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0521simplecursoradapter/p0521simplecursoradapter.iml" filepath="$PROJECT_DIR$/p0521simplecursoradapter/p0521simplecursoradapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0531simplecursortreeadapter/p0531simplecursortreeadapter.iml" filepath="$PROJECT_DIR$/p0531simplecursortreeadapter/p0531simplecursortreeadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0541customadapter/p0541customadapter.iml" filepath="$PROJECT_DIR$/p0541customadapter/p0541customadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0551headerfooter/p0551headerfooter.iml" filepath="$PROJECT_DIR$/p0551headerfooter/p0551headerfooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0561spinner/p0561spinner.iml" filepath="$PROJECT_DIR$/p0561spinner/p0561spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0571gridview/p0571gridview.iml" filepath="$PROJECT_DIR$/p0571gridview/p0571gridview.iml" />
     </modules>
   </component>
 </project>
