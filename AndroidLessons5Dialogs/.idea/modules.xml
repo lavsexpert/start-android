@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidLessons5Dialogs.iml" filepath="$PROJECT_DIR$/AndroidLessons5Dialogs.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0581timepickerdialog/p0581timepickerdialog.iml" filepath="$PROJECT_DIR$/p0581timepickerdialog/p0581timepickerdialog.iml" />
     </modules>
   </component>
 </project>
