@@ -1,1 +1,1 @@
-include ':app', ':p0581timepickerdialog', ':p0591datepickerdialog', ':p0601alertdialogsimple', ':p0611alertdialogprepare', ':p0621alertdialogitems'
+include ':app', ':p0581timepickerdialog', ':p0591datepickerdialog', ':p0601alertdialogsimple', ':p0611alertdialogprepare', ':p0621alertdialogitems', ':p0631alertdialogitemssingle'
