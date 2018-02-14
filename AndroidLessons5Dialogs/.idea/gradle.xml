@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/p0611alertdialogprepare" />
             <option value="$PROJECT_DIR$/p0621alertdialogitems" />
             <option value="$PROJECT_DIR$/p0631alertdialogitemssingle" />
+            <option value="$PROJECT_DIR$/p0641alertdialogitemsmulti" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
